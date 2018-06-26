@@ -2,77 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd81ba5-2dbe-4b52-beeb-9d1461b5089d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/actions/authActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/postActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/profileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/actions/types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AddCredentials/AddEducation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/AddCredentials/AddExperience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/InputGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/PrivateRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/SelectListGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/Spinner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/TextAreaFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/TextFieldGroup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Common/spinner.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/CreateProfile/CreateProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard/Education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard/Experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Dashboard/ProfileActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/EditProfile/EditProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/Landing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Layout/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/NotFound/NotFound.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Post/CommentFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Post/CommentForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Post/CommentItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Post/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/PostFeed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/PostForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/PostItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profile/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profile/ProfileAbout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profile/ProfileCreds.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profile/ProfileGithub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profile/ProfileHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profiles/ProfileItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/Profiles/Profiles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/img/showcase.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/errorReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/postReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/reducers/profileReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/setAuthToken.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/validation/is-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys_dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys_prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/education.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/experience.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/is-empty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/Users.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -98,8 +29,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="113" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+            <state relative-caret-position="253">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -315,12 +246,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528212243165</updated>
       <workItem from="1528212244870" duration="86726000" />
-      <workItem from="1529430802526" duration="31719000" />
+      <workItem from="1529430802526" duration="31961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118445000" />
+    <option name="totallyTimeSpent" value="118687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="0" width="1920" height="1080" extended-state="0" />
@@ -824,8 +755,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="113" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+        <state relative-caret-position="253">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
         </state>
       </provider>
     </entry>
