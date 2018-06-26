@@ -1,8 +1,8 @@
 {
   "name": "developconnector",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Social network for developers",
+  "main": "server.js",
   "scripts": {
     "client-install": "npm install --prefix client",
     "start": "node server.js",
@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "",
+  "author": "Ross",
   "license": "ISC",
   "devDependencies": {
     "bcryptjs": "^2.4.3",
