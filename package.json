@@ -2,6 +2,10 @@
   "name": "developconnector",
   "version": "1.0.0",
   "description": "Social network for developers",
+  "engines": {
+    "node": "8.11.x",
+    "npm": "5.6.x"
+  },
   "main": "index.js",
   "scripts": {
     "client-install": "npm install --prefix client",
