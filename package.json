@@ -1,10 +1,6 @@
 {
   "name": "developconnector",
   "version": "1.0.0",
-  "engines": {
-    "node": "8.11.1",
-    "npm": "5.6.x"
-  },
   "description": "Social network for developers",
   "main": "index.js",
   "scripts": {
